@@ -46,4 +46,19 @@ npm run dev
 # OR production build
 npm run build
 ```
+## Project Deployment To Live Server Through Git
+
+2. If SubDomain
+```bash
+## Create SubDomain
+
+# (Optional) Update packages
+npm update
+
+# Run development build
+npm run dev
+
+# OR production build
+npm run build
+```
 
