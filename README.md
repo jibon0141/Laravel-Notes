@@ -31,7 +31,7 @@ php artisan storage:link
 php artisan serve
 ```
 
-## If Project Have alpine,react or vue Dependences (Then Run This Extra Command)
+## If Project Have alpine,react or vue Dependencies (Then Run This Extra Command)
 
 ```bash
 # Install Node dependencies
