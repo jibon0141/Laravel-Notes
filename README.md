@@ -52,13 +52,9 @@ npm run build
 ```bash
 ## Create SubDomain
 
-# (Optional) Update packages
-npm update
-
-# Run development build
-npm run dev
-
-# OR production build
-npm run build
+*cPanel->Domains->create a new domain
+* enter domin name like this: subdomain.maindomain.com/in/xyz
+* don't select share document root as it will select the main domain and this sub Domain will open the main domain website.
+* Select or enter the root path of the created folder earlier.
 ```
 
