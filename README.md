@@ -48,7 +48,16 @@ npm run build
 ```
 ## Project Deployment To Live Server Through Git
 
-2. If SubDomain
+2. If SubDomain / Adon Domain
+
+```bash
+## Create Folder
+
+* cPanel->Domains->create a new domain
+* enter domin name like this: subdomain.maindomain.com/in/xyz
+* don't check share document root as it will select the main domain and this sub Domain will open the main domain website.
+* Select or enter the root path of the created folder earlier. (that means this subdomain is linked with that folder path)
+```
 ```bash
 ## Create SubDomain
 
